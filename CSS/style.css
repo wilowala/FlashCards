@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    padding: 0 !important;
+    margin: 0 !important;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    background-color: aquamarine;
+}
+
+header{
+    background-color: whitesmoke;
+}
+
+button{
+    padding: 0.5rem;
+    outline: none;
+    border-radius: 0.313rem;
+    width: 20%;
+    background-color: whitesmoke;
+    border-radius: 0.063rem solid black;
+    box-shadow: none;
+}
